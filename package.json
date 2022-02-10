@@ -35,7 +35,7 @@
     "livereload": "^0.6.0",
     "lory.js": "^2.2.1",
     "masonry-layout": "^4.1.1",
-    "node-sass": "^3.13.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^4.0.2",
     "scroll-lazy": "^1.0.3",
     "style-loader": "^0.13.1",
